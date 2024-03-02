@@ -25,7 +25,11 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/mofq786/Smart_Deposits_Withdrawals.git
-cd Smart_Deposits_Withdrawals
-npm install
 
+   ```bash
+   cd Smart_Deposits_Withdrawals
+
+   ```bash
+   npm install
+## Acknowledgements
 Make sure to replace `0x2B589A91DE4c6CDA5Dd6D7CffeD6C52FbBdDA0fA` with the appropriate address and update the GitHub repository link accordingly.
