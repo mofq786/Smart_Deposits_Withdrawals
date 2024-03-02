@@ -31,5 +31,12 @@ Make sure you have the following installed:
 
 
    npm install
+
+## License
+This project is licensed under the **MIT** License.
+
+## Contact
+For any inquiries, reach out to Sepolia at address 0x2B589A91DE4c6CDA5Dd6D7CffeD6C52FbBdDA0fA .
+
 ## Acknowledgements
 Make sure to replace `0x2B589A91DE4c6CDA5Dd6D7CffeD6C52FbBdDA0fA` with the appropriate address and update the GitHub repository link accordingly.
